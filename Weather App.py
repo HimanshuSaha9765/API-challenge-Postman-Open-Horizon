@@ -153,7 +153,7 @@ def search_weather():
                 display_weather_data(weather_data, air_quality_data, uv_index_data)
 
 # API Key for OpenWeatherMap
-api_key = "4cd0898f39b183831029b08c21c6f5a5"
+api_key = "Your_api_key"  #Replace with your api_key
 
 # Create the main window
 root = tk.Tk()
